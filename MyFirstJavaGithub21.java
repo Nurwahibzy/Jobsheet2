@@ -3,8 +3,4 @@ public class MyFirstJavaGithub21 {
            System.out.println("Hello from github");     
     }
 
-
-
-
-
 }
