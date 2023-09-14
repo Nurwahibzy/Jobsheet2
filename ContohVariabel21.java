@@ -5,7 +5,7 @@ public static void main(String[] args) {
    char jenisKelamin = 'L';
    byte _umurSayaSekarang = 18;
    double $ipk = 3.8, tinggi = 1.66;
-   System.out.println(salahSatuHobiSayaAdalah);
+   System.out.println("Apa hobi kamu?" + salahSatuHobiSayaAdalah);
    System.out.println("apakah pandai?" + isPintar);
    System.out.println("Jenis kelamin:" + jenisKelamin );
    System.out.println("Umurku saat ini:" + _umurSayaSekarang);
